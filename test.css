@@ -1,0 +1,26 @@
+h1{
+     background-color:rgb(47, 71, 109);
+     border-radius: 50px;
+     color:rgb(255, 255, 255);
+     height: 80px;
+     margin-left: 500px;
+     margin-right: 500px;
+}
+
+img{
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    border-radius: 50px;
+}
+
+p{
+    color: whitesmoke;
+    font-size: 25px;
+    background-color: rgb(16, 27, 45);
+    border-radius: 10px;
+}
+
+body{
+    background-color:rgb(188, 191, 200);
+}
